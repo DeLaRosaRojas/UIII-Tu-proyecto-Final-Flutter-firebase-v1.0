@@ -1,3 +1,16 @@
+<img width="361" height="751" alt="image" src="https://github.com/user-attachments/assets/93e92442-c0dc-4709-be35-00fa5c856fe9" />
+<img width="339" height="753" alt="image" src="https://github.com/user-attachments/assets/482204de-c51e-43bd-8d95-f6e799ebfb71" />
+<img width="342" height="750" alt="image" src="https://github.com/user-attachments/assets/a50fb8b8-6d3a-4691-8bd9-4469650f35be" />
+<img width="350" height="749" alt="image" src="https://github.com/user-attachments/assets/678fc11c-604e-481b-a4ec-c910fdf21155" />
+<img width="359" height="751" alt="image" src="https://github.com/user-attachments/assets/270547e6-c8ff-4f79-97ba-a1ed14592bc8" />
+<img width="349" height="748" alt="image" src="https://github.com/user-attachments/assets/467159e3-d71e-429b-8719-33c20fa963d5" />
+<img width="350" height="746" alt="image" src="https://github.com/user-attachments/assets/54dc3481-e05b-495b-ab16-9eaca81f30e2" />
+<img width="354" height="746" alt="image" src="https://github.com/user-attachments/assets/3d98ba80-02ca-4ef3-bdda-8c98921a7d85" />
+<img width="347" height="754" alt="image" src="https://github.com/user-attachments/assets/a7a4d285-8940-45a2-89c0-6b8bfc934ae9" />
+<img width="394" height="780" alt="image" src="https://github.com/user-attachments/assets/adb0aebd-d63b-414c-83c0-6c1db5f212d7" />
+<img width="365" height="757" alt="image" src="https://github.com/user-attachments/assets/a4702910-e08b-492c-af29-f1f742638612" />
+
+
 Actúa como un creador de software, diseñador de aplicaciones móviles multiplataforma. Poner Información necesaria, paso a paso para que un Estudiante nivel Preparatoria pueda dominar lo Proporcionado. Entregar todo lo solicitado en una respuesta.
 
 Vamos a comenzar. Necesitaré empezar la elaboración de mi Proyecto Final, necesito que antes de elaborar cualquier petición me hagas una pregunta confirmando todo lo que me proporcionarás Así evitaremos errores y alargar el procedimiento más de lo solicitado. Aquí te va el Plan de Implementación que será la guía para realizar el proyecto. 
